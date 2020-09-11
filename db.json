@@ -1,0 +1,99 @@
+{
+    "members": [
+      {
+        "id": "W012A3CDE",
+        "real_name": "Egon Spengler",
+        "tz": "America/Los_Angeles",
+        "activity_periods": [
+          {
+            "start_time": "Feb 1 2020  1:33PM",
+            "end_time": "Feb 1 2020 1:54PM"
+          },
+          {
+            "start_time": "Mar 1 2020  11:11AM",
+            "end_time": "Mar 1 2020 2:00PM"
+          },
+          {
+            "start_time": "Mar 16 2020  5:33PM",
+            "end_time": "Mar 16 2020 8:02PM"
+          }
+        ]
+      },
+      {
+        "id": "W07QCRPA4",
+        "real_name": "Glinda Southgood",
+        "tz": "Asia/Kolkata",
+        "activity_periods": [
+          {
+            "start_time": "Feb 1 2020  1:33PM",
+            "end_time": "Feb 1 2020 1:54PM"
+          },
+          {
+            "start_time": "Mar 1 2020  11:11AM",
+            "end_time": "Mar 1 2020 2:00PM"
+          },
+          {
+            "start_time": "Mar 16 2020  5:33PM",
+            "end_time": "Mar 16 2020 8:02PM"
+          }
+        ]
+      },
+      {
+        "real_name": "Christopher Nolan",
+        "tz": "USA/LA",
+        "activity_periods": [
+          {
+            "start_time": "Feb 1 2020  2:33PM",
+            "end_time": "Feb 1 2020 4:54PM"
+          },
+          {
+            "start_time": "Mar 19 2020  11:11AM",
+            "end_time": "Mar 1 2020 2:00PM"
+          },
+          {
+            "start_time": "May 16 2020  5:33PM",
+            "end_time": "May 16 2020 8:02PM"
+          }
+        ],
+        "id": "EEKrB5M"
+      },
+      {
+        "id": "W07QCRPB4",
+        "real_name": "Silvester stalon",
+        "tz": "Greenwich/UK",
+        "activity_periods": [
+          {
+            "start_time": "june 1 2020  1:33PM",
+            "end_time": "june 1 2020 1:54PM"
+          },
+          {
+            "start_time": "Mar 2 2020  10:11AM",
+            "end_time": "Mar 2 2020 2:00PM"
+          },
+          {
+            "start_time": "Mar 6 2020  5:33PM",
+            "end_time": "Mar 6 2020 8:02PM"
+          }
+        ]
+      },
+      {
+        "id": "W07QCRBB4",
+        "real_name": "Emma Watson",
+        "tz": "Greenwich/UK",
+        "activity_periods": [
+          {
+            "start_time": "june 1 2021  12:33PM",
+            "end_time": "june 1 2020 1:44PM"
+          },
+          {
+            "start_time": "Mar 21 2020  10:11AM",
+            "end_time": "Mar 21 2020 3:07PM"
+          },
+          {
+            "start_time": "Mar 23 2020  11:33AM",
+            "end_time": "Mar 23 2020 5:02PM"
+          }
+        ]
+      }
+    ]
+  }
