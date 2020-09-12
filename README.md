@@ -1,3 +1,14 @@
+## About Repo
+This is Frontend Test by FullThrottle Labs 
+
+A JSON fie is provided by which is to be used as MOCK API . I have use [Boilerplate Git](https://github.com/jesperorb/json-server-heroku) for creating JSON Mock API. and deployed as [Heroku APP](https://fake-jsun-server.herokuapp.com/members)
+
+The final project is also deployed at Heroku server as [Heroku App](https://blooming-waters-27011.herokuapp.com)
+
+
+########################################################################
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
